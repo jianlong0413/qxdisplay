@@ -1,0 +1,107 @@
+D:\Project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\VS_Project\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\大堡机场气象信息显示系统_MarkupCompile.cache
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.g.resources
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\QX-20220407\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\大堡机场气象信息显示系统_MarkupCompile.cache
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.g.resources
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FCQXS-BJB01\Desktop\QX-26ask split\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统_MarkupCompile.cache
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.g.resources
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FCQXS-BJB01\Desktop\QX-35noasksplit\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统_MarkupCompile.cache
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.g.resources
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38asksplit\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统_MarkupCompile.cache
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.g.resources
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FCQXS-BJB01\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.pdb
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统_MarkupCompile.cache
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.g.resources
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FCQXS-BJB05\Desktop\气象信息显示系统\QX-38noasksplit\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FCQXS-BJB05\Desktop\QX-38noasksplit\WpfApplication1\bin\Debug\大堡机场气象信息显示系统.exe.config
+C:\Users\FCQXS-BJB05\Desktop\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.exe
+C:\Users\FCQXS-BJB05\Desktop\QX-38noasksplit\WpfApplication1\obj\Debug\大堡机场气象信息显示系统.pdb

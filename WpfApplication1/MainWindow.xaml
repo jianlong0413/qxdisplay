@@ -1,0 +1,65 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="大堡机场气象信息显示系统" Height="480" Width="800"
+        Icon="bitbug_favicon.ico">
+    <Viewbox>
+        <Grid Width="1920" Height="1080">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5*"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="0.5*"/>
+            </Grid.RowDefinitions>
+            <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Source="./Images/tb.png"/>
+            <Label Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="6" Content="大堡机场气象信息显示系统" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="110" FontFamily="STZhongsong"/>
+            <Label Grid.Row="2" Grid.Column="4" Content="风向" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="3" Grid.Column="4" Content="风速" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="4" Grid.Column="0" Content="气压" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="5" Grid.Column="0" Content="场压" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="2" Grid.Column="0" Content="温度" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="3" Grid.Column="0" Content="湿度" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Content="实时数据" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="1" Grid.Column="3" Content="2分平均" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="1" Grid.Column="5" Content="实时数据" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="1" Grid.Column="6" Content="2分平均" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="1" Grid.Column="7" Content="10分平均" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Content="实况时间:" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="66" FontFamily="STXihei" FontWeight="Bold"/>
+            <Button x:Name="bt_SerialSwitch" Grid.Row="6" Grid.Column="7" Content="打开串口" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="50" FontFamily="STXihei" Click="bt_SerialSwitch_Click"/>
+            <Ellipse Name="e_status" Grid.Row="6" Grid.Column="7" Fill="#000000" Height="30" Stroke="Black" Width="30" HorizontalAlignment="Right" />
+            <TextBlock Name="tb_FX" Grid.Row="2" Grid.Column="5" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_FX2" Grid.Row="2" Grid.Column="6" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_FX10" Grid.Row="2" Grid.Column="7" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_FS" Grid.Row="3" Grid.Column="5" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_FS2" Grid.Row="3" Grid.Column="6" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_FS10" Grid.Row="3" Grid.Column="7" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_P" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_P2" Grid.Row="4" Grid.Column="3" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_CY" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_CY2" Grid.Row="5" Grid.Column="3" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_T" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_T2" Grid.Row="2" Grid.Column="3" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_U" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_U2" Grid.Row="3" Grid.Column="3" FontSize="66" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Name="tb_TimeNow" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="3" TextWrapping="Wrap" FontSize="66" VerticalAlignment="Center"/>
+            <Canvas Grid.Row="4" Grid.Column="4" Grid.RowSpan="3" Grid.ColumnSpan="3" Name="Pan" />
+            <Canvas Grid.Row="4" Grid.Column="7" Grid.RowSpan="2" Name="TuLi" />
+
+        </Grid>
+    </Viewbox>
+</Window>
